@@ -1,0 +1,2 @@
+Тем, что в demo с веткой boots смержились и boots (ботинки) и heat (шляпа), dots (пуговицы) смержились в demo с веткой buttons
+В master же heat (шляпа) смержилась с веткой hat, а boots (ботинки) и dots (пуговицы) смержились с веткой boots_buttons
