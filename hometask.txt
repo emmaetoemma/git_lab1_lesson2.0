@@ -1,2 +1,8 @@
 Тем, что в demo с веткой boots смержились и boots (ботинки) и heat (шляпа), dots (пуговицы) смержились в demo с веткой buttons
 В master же heat (шляпа) смержилась с веткой hat, а boots (ботинки) и dots (пуговицы) смержились с веткой boots_buttons
+
+18 коммитов
+Коммиты для boots_buttons:
+init, boots, README added, dots, fix readme, Merge remote-tracking branch 'origin/boots' into boots_buttons, Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Коммиты для master:
+init, heat added, boots, README added, dots, fix readme, Merge remote-tracking branch 'origin/boots' into boots_buttons, Merge remote-tracking branch 'origin/buttons' into boots_buttons, Merge remote-tracking branch 'origin/hat', Merge branch 'boots_buttons', Create hometask.txt
